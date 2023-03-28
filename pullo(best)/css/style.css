@@ -591,12 +591,14 @@ body{
 }
 .buy_text{
 	width: 32%;
+    text-align: center;
 	height: 50px;
 	color: #ffffff;
 	background-color: #131111;
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
+    margin-left: 35%;
 }
 
 .contact_section{
